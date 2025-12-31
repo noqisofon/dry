@@ -32,4 +32,5 @@ Build:
 dotnet build
 ```
 
-<!-- Verified and resubmitted -->
+
+<!-- Rewrite v2 -->
